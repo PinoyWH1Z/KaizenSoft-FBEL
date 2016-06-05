@@ -1,0 +1,4 @@
+C:\Users\albia\Documents\Visual Studio 2015\Projects\KaizenSoft - FBEL\bin\Debug\KaizenSoft - FBEL.dll
+C:\Users\albia\Documents\Visual Studio 2015\Projects\KaizenSoft - FBEL\bin\Debug\KaizenSoft - FBEL.pdb
+C:\Users\albia\Documents\Visual Studio 2015\Projects\KaizenSoft - FBEL\obj\Debug\KaizenSoft - FBEL.dll
+C:\Users\albia\Documents\Visual Studio 2015\Projects\KaizenSoft - FBEL\obj\Debug\KaizenSoft - FBEL.pdb
