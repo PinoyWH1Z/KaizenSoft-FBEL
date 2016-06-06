@@ -11,7 +11,7 @@ adopt the way "Facebook" uses to log-in their users.<p>
 ### _How to use?:_
 
 Simply add "**KaizenSoft - FBEL.dll**" as your project reference and use the guides/examples below to make it functional<p>
-https://github.com/kaizenlouie/KaizenSoft-FBEL/blob/master/bin/Debug/KaizenSoft - FBEL.dll?raw=true
+https://goo.gl/FQSQmQ <<< .DLL DIRECT DOWNLOAD
 <p><p><p>
 ### _Example usage in C#:_
 
